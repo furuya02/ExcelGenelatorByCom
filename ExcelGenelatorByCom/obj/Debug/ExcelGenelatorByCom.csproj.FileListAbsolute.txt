@@ -1,0 +1,7 @@
+C:\tmp2\ExcelGenelatorByCom\ExcelGenelatorByCom\bin\Debug\ExcelGenelatorByCom.exe.config
+C:\tmp2\ExcelGenelatorByCom\ExcelGenelatorByCom\obj\Debug\ExcelGenelatorByCom.csproj.ResolveComReference.cache
+C:\tmp2\ExcelGenelatorByCom\ExcelGenelatorByCom\bin\Debug\ExcelGenelatorByCom.exe
+C:\tmp2\ExcelGenelatorByCom\ExcelGenelatorByCom\bin\Debug\ExcelGenelatorByCom.pdb
+C:\tmp2\ExcelGenelatorByCom\ExcelGenelatorByCom\obj\Debug\ExcelGenelatorByCom.csprojResolveAssemblyReference.cache
+C:\tmp2\ExcelGenelatorByCom\ExcelGenelatorByCom\obj\Debug\ExcelGenelatorByCom.exe
+C:\tmp2\ExcelGenelatorByCom\ExcelGenelatorByCom\obj\Debug\ExcelGenelatorByCom.pdb
