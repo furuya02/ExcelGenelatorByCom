@@ -1,0 +1,2 @@
+# ExcelGenelatorByCom
+WindowsでC#からExcelファイルを生成する
